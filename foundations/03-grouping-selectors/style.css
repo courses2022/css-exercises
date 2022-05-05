@@ -1,0 +1,13 @@
+.buttons{
+    font-size:28px;
+    font-family:Georgia, 'Times New Roman', Times, serif;`
+  }
+  
+  .first{
+    color:white;
+    background: black;
+  }
+  
+  .second{
+    background-color:yellow;
+  }
