@@ -1,0 +1,22 @@
+body{
+    padding:50px;
+  }
+  
+  .odds{
+    background-color:pink;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  #num2{
+    color:blue;
+    font-size:36px;
+  }
+  
+  .imbig{
+    font-size:24px;
+  }
+  
+  .thefourth{
+    font-style:bold;
+    background-color:goldenrod;
+  }
